@@ -7,12 +7,13 @@
 
 
 ## second load the environment with pip
-- pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu117
-- pip install git+https://github.com/huggingface/diffusers transformers accelerate
+    pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu117
+    
+    pip install git+https://github.com/huggingface/diffusers transformers accelerate
 
 ## Make sure torch is running along with cuda
 - torch.cuda.is_available()
 
 ## Verify CUDA is installed
     sudo apt install nvidia-cuda-toolkit
- - then type "bash verifyCUDA.sh" in the terminal or command line
+ ### Then type "bash verifyCUDA.sh" in the terminal or command line
