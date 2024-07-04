@@ -3,7 +3,7 @@
 - .\venv\Scripts\activate
 
 
-## second load the pip environment
+## second load the environment with pip
 - pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu117
 - pip install git+https://github.com/huggingface/diffusers transformers accelerate
 
