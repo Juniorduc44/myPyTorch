@@ -13,8 +13,8 @@
 ### OR...you can just use pip to load environment packages
     pip install -r requirements.txt
 
-###
-###
+### 
+### 
 ## Make sure torch is running along with cuda
 - torch.cuda.is_available()
 
