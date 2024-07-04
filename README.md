@@ -33,3 +33,11 @@
     sudo apt install nvidia-cuda-toolkit
  ### Then type "bash verifyCUDA.sh" in the terminal or command line
     bash verifyCUDA.sh
+
+### |
+### |
+### |
+### |
+
+## Lastly a simple test with python
+    python testCUDA.py
