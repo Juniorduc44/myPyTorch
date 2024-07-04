@@ -5,10 +5,10 @@
  ### On linux type the following
     source venv/bin/activate
 
-### X
-### X
-### X
-### X
+### |
+### |
+### |
+### |
 
 
 
