@@ -9,3 +9,7 @@
 
 ## Make sure torch is running along with cuda
 - torch.cuda.is_available()
+
+## Verify CUDA is installed
+    - sudo apt install nvidia-cuda-toolkit
+ - then type "bash verifyCUDA.sh" in the terminal or command line
