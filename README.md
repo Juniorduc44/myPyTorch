@@ -1,8 +1,8 @@
 ## first create python environment
     - python -m venv venv
- - On windows type the following in CMD
+ ### On windows type the following in CMD
     - .\venv\Scripts\activate
- - On linux type the following
+ ### On linux type the following
     - source venv/bin/activate
 
 
