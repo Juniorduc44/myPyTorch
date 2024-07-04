@@ -6,11 +6,12 @@
     source venv/bin/activate
 
 
-## second load the environment with pip
+## Second load the environment with pip
     pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu117
 ###
     pip install git+https://github.com/huggingface/diffusers transformers accelerate
-
+### OR...you can just use pip to load environment packages
+    pip install -r requirements.txt
 ## Make sure torch is running along with cuda
 - torch.cuda.is_available()
 
