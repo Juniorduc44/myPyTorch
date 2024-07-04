@@ -1,9 +1,9 @@
 ## first create python environment
-    - python -m venv venv
+    python -m venv venv
  ### On windows type the following in CMD
-    - .\venv\Scripts\activate
+    .\venv\Scripts\activate
  ### On linux type the following
-    - source venv/bin/activate
+    source venv/bin/activate
 
 
 ## second load the environment with pip
@@ -14,5 +14,5 @@
 - torch.cuda.is_available()
 
 ## Verify CUDA is installed
-    - sudo apt install nvidia-cuda-toolkit
+    sudo apt install nvidia-cuda-toolkit
  - then type "bash verifyCUDA.sh" in the terminal or command line
